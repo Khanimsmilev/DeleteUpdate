@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("delete_update")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8377c6f10ec6ae1bbc719eb09d8ec541e4eea9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("delete_update")]
 [assembly: System.Reflection.AssemblyTitleAttribute("delete_update")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

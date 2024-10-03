@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace delete_update.Entities
+namespace delete_update.Entities.Abstarct
 {
-    internal class BaseEntities
+    public class BaseEntities
     {
+        public int Id { get; set; }
+        public string? Name { get; set; }
     }
 }
